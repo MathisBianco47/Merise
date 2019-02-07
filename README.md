@@ -1,1 +1,1 @@
-# Merise
+# Étude de cas Merise
